@@ -1,0 +1,3 @@
+com\example\geektrust\MainTest.class
+com\example\geektrust\service\CardExecutionServiceTest.class
+com\example\geektrust\utility\FileProcessingUtilityTest.class
